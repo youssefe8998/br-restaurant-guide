@@ -2,8 +2,8 @@
 ## Asian
 ---
 Select a specific Asian food:
-## Chinese
-## Japanese
-## Thai
+## [Chinese](https://xin.nyc/)
+## [Japanese](https://www.hanajapanesebrooklyn.com/)
+## [Thai](https://topthaibayridgetogo.com/)
 ---
 Start Over
